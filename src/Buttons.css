@@ -1,0 +1,49 @@
+.calci{
+    width: 320px;
+    margin: 100px auto;
+}
+
+#answer{
+    background-color: whitesmoke;
+    padding: 10px;
+    font-size: 35px;
+    border-radius: 8%;
+    width: 295px;
+    height: 65px;
+    text-align: right;
+}
+
+.button{
+    background: rgb(34, 34, 91);
+    height: 80px;
+    width: 80px;
+    color: rgba(255, 255, 255, 0.863);
+    font-size: 30px;
+    border-radius: 8%;
+    border: 1px solid black;
+    float: left;
+}
+
+.btn{
+    background: rgba(42, 220, 247, 0.826);
+    height: 80px;
+    border-radius: 8%;
+    width: 160px;
+    color: white;
+    font-size: 30px;
+    float: left;
+}
+
+.btn1{
+    background: rgb(0, 0, 127);
+    height: 60px;
+    width: 160px;
+    color: white;
+    font-size: 30px;
+    float: left;
+}
+.btn2{
+    background: rgb(80, 140, 218);
+    color: white;
+    float: left;
+}
